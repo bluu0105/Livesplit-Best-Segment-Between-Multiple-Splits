@@ -22,7 +22,7 @@ public class DOMsplitsparser {
         return minutes + seconds + decimals;
     }
 
-    /*Will take in a HashMap consisting of Strings keys representing attempts and Double values
+    /*This Method Will take in a HashMap consisting of Strings keys representing attempts and Double values
      * representing the overall segment time for that specific attempt. The minimum value is
      * found and returned in a String of form "XXm | XXs | XXXms"
     */
