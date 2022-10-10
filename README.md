@@ -5,4 +5,4 @@ Varibale "inBetweenSegmentName" needs to initialized with a String of the name o
 Variable "endSegmentNam" needs to be initialized with a String of the name of the end split
 Variable "lssFile" needs to be initialized with a String of the name of your lss file (including the .lss extension)
 
-Assuming the parameters are correct, the program will calculate and print out the segment time in formate "XX:XX.XXX" (Minutes:Seconds:Milliseconds)
+Assuming the parameters are correct, the program will calculate and print out the segment time in format "XX:XX.XXX" (Minutes:Seconds:Milliseconds)
